@@ -1,8 +1,10 @@
 
 
-print("Hola mundo")
+print("Hola_mundo")
 
-print("Hola developer")
 
-print("como estas mundo")
+print("Hola_developer")
+
+
+print("como_estas_mundo")
 
